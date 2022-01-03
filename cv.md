@@ -42,6 +42,7 @@ I am junior developer. I am learning and pathing courses about 3-4 months.
 
 * Russian - Native
 * English - intermediate
+![English-certificate](img\certificate.PNG)
 
 
 
