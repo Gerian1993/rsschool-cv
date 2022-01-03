@@ -14,11 +14,11 @@
     <div class="cv">
         <div class="cv1">
             <aside>
-                <img src="img\фото.jpg" alt="photo">
+                <img src="img/фото.jpg" alt="photo">
                 <h2>Contact information:</h2>
                 <ul>
-                    <li><i class="fa fa-phone" aria-hidden="true"></i> &nbsp phone: +7 (905) 564-69-51</li>
-                    <li><i class="fa fa-envelope" aria-hidden="true"></i> &nbsp E-mail: i.generalov.93@gmail.com</li>
+                    <li><i class="fa fa-phone" aria-hidden="true"></i> &nbspphone: +7 (905) 564-69-51</li>
+                    <li><i class="fa fa-envelope" aria-hidden="true"></i> &nbspE-mail: i.generalov.93@gmail.com</li>
                 </ul>
                 <h2>Languages</h2>
                 <ul>
@@ -55,7 +55,8 @@
                     <p>In example I made a object and method. Method asks you about 3 favorite cinema genres and then
                         write this information into the object and output to console. If cancel answer or leav empty
                         string, program will ask you again until you give it answer.</p>
-                    <pre><code>
+                    <pre>
+                        <code>
                         let personalMovieDB = {
                             count: 0,
                             movies: {},  
@@ -64,7 +65,7 @@
                             privat: false,
                         };
                         personalMovieDB.writeYourGenres = function () {
-                            for(let i = 0; i < 3; i++) {
+                            for(let i = 0; i&lt3; i++) {
                                 let q1 = prompt(`Ваш любимый жанр под номером ${i + 1} ?`);
                                 while (q1 == null || q1 ==``) {
                                     q1 = prompt(`Ваш любимый жанр под номером ${i + 1} ?`);
@@ -75,9 +76,9 @@
                                 console.log(`Любимый жанр #${i + 1} - это ${item}`);    
                             });
                             personalMovieDB.writeYourGenres();
-                            console.log(personalMovieDB);
-                        </pre>
+                            console.log(personalMovieDB)
                     </code>
+                </pre>
                     <hr>
                     <h2>Expirience:</h2>
                     <p>I am junior developer. I am learning and pathing courses about 3-4 months.</p>
@@ -103,7 +104,7 @@
                                         Complete Guide</a>(in progress)</li>
                             </ul>
                         <li> RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)</li>
-                        </li>
+                    </li>
                     </ol>
                 </main>
             </div>
@@ -111,7 +112,7 @@
         <footer>
             <a href="https://github.com/Gerian1993"><i class="fa fa-github" aria-hidden="true"></i> &nbsp Github</a>
             <p>2022</p>
-            <a href="https://rs.school/js/"><img src="img\rs_school_js.svg"></a>
+            <a href="https://rs.school/js/"><img src="img/rs_school_js.svg" alt="rs-scool_icon"></a>
         </footer>
     </div>
 </body>
