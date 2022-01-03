@@ -34,8 +34,13 @@ I am junior developer. I am learning and pathing courses about 3-4 months.
 ### Courses
 
 1. [Code-basics](https://ru.code-basics.com) - HTML, CSS, JS (in progress)
-2. [Stepik](https://stepik.org) - "basic HTML & CSS" and "JavaScript for Beginners"
-3. [Udemy](https://www.udemy.com) - "Web-developer 2021" (in progress), "Full course Javascript + React" (in progress), "React - The Complete Guide" (in progress)
+2. Stepik 
+* [basic HTML & CSS](https://stepik.org/course/52164/syllabus)
+* [JavaScript for Beginners](https://stepik.org/course/3432/syllabus)
+3. Udemy
+* [Web-developer 2021](https://www.udemy.com/course/webdeveloper/) (in progress) 
+* [Full course Javascript + React](https://www.udemy.com/course/javascript_full/) (in progress)
+* [React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) (in progress)
 4. RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ### Languages
