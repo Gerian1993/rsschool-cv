@@ -6,6 +6,7 @@
 ### Contact information:
 
 phone: +7 (905) 564-69-51
+
 E-mail: i.generalov.93@gmail.com
 
 ### Briefly About Myself:
