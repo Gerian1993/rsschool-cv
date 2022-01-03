@@ -7,6 +7,7 @@
 
 phone: +7 (905) 564-69-51
 
+
 E-mail: i.generalov.93@gmail.com
 
 ### Briefly About Myself:
@@ -23,7 +24,7 @@ I am junior front-end developer. Today I have learnd several delopment methods l
 
 ### Code examples
 
-You can find examples of my work on my github profile. You're welcome - https://github.com/Gerian1993?tab=repositories
+You can find examples of my work on my github profile. You're welcome - [Link for github][https://github.com/Gerian1993?tab=repositories]
 
 
 ### Expirience 
@@ -32,9 +33,9 @@ I am junior developer. I am learning and pathing courses about 3-4 months.
 
 ### Courses
 
-1. https://ru.code-basics.com - HTML, CSS, JS (in progress)
-2. https://stepik.org - "basic HTML & CSS" and "JavaScript for Beginners"
-3. https://www.udemy.com - "Web-developer 2021" (in progress), "Full course Javascript + React" (in progress), "React - The Complete Guide" (in progress)
+1. [Code-basics][https://ru.code-basics.com] - HTML, CSS, JS (in progress)
+2. [Stepik][https://stepik.org] - "basic HTML & CSS" and "JavaScript for Beginners"
+3. [Udemy][https://www.udemy.com] - "Web-developer 2021" (in progress), "Full course Javascript + React" (in progress), "React - The Complete Guide" (in progress)
 4. RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ### Languages
