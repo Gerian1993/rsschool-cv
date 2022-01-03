@@ -1,7 +1,7 @@
 # rsschool-cv
 
 ## Generalov Ivan
-## Junior front-end developer
+## Junior frontend developer
 
 ### Contact information:
 
